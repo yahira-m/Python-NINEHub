@@ -1,0 +1,2 @@
+La suma de las masas de los planetas del sistema solar es 2.66831431e+27
+2 4 6 8 10 12 14 16 18 20 22 24
